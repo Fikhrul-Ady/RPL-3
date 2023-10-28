@@ -27,7 +27,7 @@
     ### Activity diagaram order barang
     ![img](Rpl3/ActivityOrderBarang.jpg)
     ### Activity diagram Validalasi Pembayaran
-    ![img](RPl3/ActivityPembayaran.jpg)
+    ![img](Rpl3/ActivityPembayaran.jpg)
 
 4. Squence Diagram
     ### Squence digram pencarrian barang
